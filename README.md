@@ -29,7 +29,7 @@ I turn manual, error-prone processes into automated workflows, clean data and re
 | Project | What it shows |
 |---|---|
 | [**UK Retail Sales Analysis (SQL)**](https://github.com/Rsts24/uk-retail-sql-analysis) | 9 business analyses: revenue trends, RFM segmentation, cohort retention, market basket. Uses CTEs and window functions |
-| [**Stampo**](https://github.com/Rsts24/stampo-crypto-buddy) | Coffee-shop loyalty app: Supabase/PostgreSQL database with 8 tables, row-level security and 12 SQL migrations; phone sign-in and QR stamping |
+| [**Stampo**](https://github.com/Rsts24/stampo-crypto-buddy) · [live app](https://stampo-stamps.lovable.app) | Coffee-shop loyalty app: Supabase/PostgreSQL database with 8 tables, row-level security and 12 SQL migrations; phone sign-in and QR stamping |
 | [**Greetings Page**](https://github.com/Rsts24) | Dynamic occasion page deployed on Netlify |
 | [**Excel VBA Automation Toolkit**](https://github.com/Rsts24/excel-vba-automation) | One-click macros that merge, clean and summarise monthly reports *(coming soon)* |
 | [**Python Excel Report Builder**](https://github.com/Rsts24/python-excel-reports) | Turns messy CSVs into a formatted Excel report with charts *(coming soon)* |
